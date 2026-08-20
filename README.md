@@ -5,6 +5,7 @@ Allure Labs LLC builds small, inspectable operating systems for public launch pa
 ## Start here
 
 - [Use the free eight-check public-path guide](https://offers.allurelabs.ai/public-path-checklist/) — review one public path yourself, with no signup, login, form submission, or purchase.
+- [Download the free v1.0.0 worksheet ZIP](https://github.com/Allura-Gensin/public-path-evidence-audit-starter/releases/download/worksheet-v1.0.0/public-path-evidence-audit-starter-worksheet-v1.0.0.zip) — six public-only planning and observation files under the MIT license.
 - [Request a written scope for the $350 audit](https://github.com/Allura-Gensin/public-path-evidence-audit-starter/issues/new?template=audit-request.yml&title=%5Bgithub-profile%5D%20Audit%20request) — public URLs and visible-path context only; an inquiry is not an order or payment.
 - [Run the free Public-Path Evidence Check Action](https://github.com/marketplace/actions/public-path-evidence-check) — produce a bounded Markdown evidence report in GitHub Actions.
 
