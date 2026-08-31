@@ -15,7 +15,7 @@ Allure Labs LLC builds simple tools and workflows that small teams can understan
 - [Launch-Path Evidence Audit](https://offers.allurelabs.ai/audit/) — $350 fixed public-path review for one agreed path, up to five public pages on desktop and mobile, with up to ten prioritized findings.
 - [No-Show Recovery Board](https://offers.allurelabs.ai/) — $299 client-owned appointment-exception board setup for one non-clinical beauty-business location.
 - [Launch-Path Assurance Sprint](https://offers.allurelabs.ai/launch-assurance-sprint/) — $2,500 review, one approved test-workflow repair, a made-up test, and a team handoff for one B2B launch path.
-- [Small Workflow Automation](https://github.com/Allura-Gensin/small-workflow-automation-demo/issues/new?template=implementation-request.yml&title=%5Bgithub-profile%5D%20Implementation%20request) — start with a $125 workflow plan, a $500 small file-based or one-tool build, or a $1,250 repair after the exact tools are confirmed.
+- [Scope a Small Workflow](https://github.com/Allura-Gensin/workflow-scope-builder/issues/new?template=scope-request.yml&title=%5Bgithub-profile-scope-builder%5D%20Scope%20conversation) — answer five public, plain-language questions to start a nonbinding conversation; $125 plan, $500 small workflow build, or $300+ browser tool after written scope.
 
 Every engagement has a written scope before work begins. We do not claim guaranteed revenue, conversion, ranking, security, accessibility, or compliance outcomes.
 
