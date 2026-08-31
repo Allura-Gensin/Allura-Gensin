@@ -24,7 +24,7 @@ Every engagement has a written scope before work begins. We do not claim guarant
 - [Public-Path Evidence Audit Starter](https://github.com/Allura-Gensin/public-path-evidence-audit-starter) — public-only review worksheet.
 - [No-Show Recovery Board Starter](https://github.com/Allura-Gensin/no-show-recovery-board-starter) — minimum-data appointment-exception-board template.
 - [Small Workflow Automation Demo](https://github.com/Allura-Gensin/small-workflow-automation-demo) — made-up entries, duplicate handling, owner review, and ten passing tests; not client work or a live third-party connection.
-- [Maintainer-assigned volunteer responsive QA](https://github.com/jeffthomasiii/dictionary-of-the-ai-era/issues/52) — completed a public Chromium phone/tablet light/dark matrix after the maintainer approved and assigned the scope; [reproducible touch-target issue #60](https://github.com/jeffthomasiii/dictionary-of-the-ai-era/issues/60). Volunteer work, not paid client work or accessibility certification.
+- [Maintainer-assigned volunteer responsive QA](https://github.com/jeffthomasiii/dictionary-of-the-ai-era/issues/52) — reviewed public EpochLex pages in Chromium at 390 × 844 and 820 × 1180 across light and dark themes, then filed [reproducible touch-target issue #60](https://github.com/jeffthomasiii/dictionary-of-the-ai-era/issues/60). Volunteer work, not paid client work; responsive browser viewports only—not physical-device coverage or accessibility certification.
 - [Illustrative evidence report](https://offers.allurelabs.ai/sample/) and [made-up workflow handoff](https://offers.allurelabs.ai/assurance-sample/) — format examples, not client case studies.
 
 For a fixed-scope inquiry: [hello@allurelabs.ai](mailto:hello@allurelabs.ai)
